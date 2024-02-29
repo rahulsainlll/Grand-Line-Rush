@@ -14,7 +14,7 @@ npm install -g grand-line-rush
 
 To start the typing test, simply run:
    ```bash
-   grand-line-rush
+   npx grand-line-rush
    ```
 You will see a random quote to type. Once you finish typing, the tool will calculate your typing speed and accuracy.
 
