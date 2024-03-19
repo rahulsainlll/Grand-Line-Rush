@@ -22,7 +22,4 @@ You will see a random quote to type. Once you finish typing, the tool will calcu
 
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-# License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
